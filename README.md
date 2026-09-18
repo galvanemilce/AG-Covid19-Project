@@ -97,6 +97,6 @@ medical advice.
 
 ## 👨‍💻 Author
 
-**Reem Raja**
+**Adriana Emilce Galvan**
 
 Data Science & Machine Learning Student
